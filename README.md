@@ -14,7 +14,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/superadona119">
-  <img width="100%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=superadona119&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/superstar119">
+  <img width="100%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=superstar119&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
